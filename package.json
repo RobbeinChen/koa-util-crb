@@ -1,0 +1,23 @@
+{
+  "name": "koa-util-crb",
+  "version": "0.1.0",
+  "description": "koa utils 4 crb only",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenruibin618/koa-util-crb.git"
+  },
+  "author": "Robben <chenruibin618@163.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenruibin618/koa-util-crb/issues"
+  },
+  "homepage": "https://github.com/chenruibin618/koa-util-crb#readme",
+  "dependencies": {
+    "boom": "^7.3.0",
+    "require-directory": "^2.1.1"
+  }
+}
